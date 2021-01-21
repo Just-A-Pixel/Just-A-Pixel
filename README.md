@@ -1,4 +1,4 @@
-### Hi there 👋
+### Developing stuff, will fill this later.
 
 <!--
 **Just-A-Pixel/Just-A-Pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
